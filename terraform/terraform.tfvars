@@ -1,5 +1,5 @@
 #File created
-rgname              = "ice_rg"
+rgname              = "first_one"
 location            = "East US"
 sname               = "devopsice234"
 cluster_name        = "terraform-aks"
