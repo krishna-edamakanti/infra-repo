@@ -26,3 +26,4 @@ variable "system_node_count" {
 variable "node_resource_group" {
   type        = string
   description = "RG name for cluster resources in Azure"
+}
